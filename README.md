@@ -4,3 +4,7 @@ Python is an Interpreted, object-oriented, and high-level programming language. 
 
 
 # Lab Record
+  My College Lab record file Based on R19 Syllabus
+  File is an Colab ipynb
+  
+  https://colab.research.google.com/drive/1knJWTE1Lct6ILj15JK0HjMkFgrvSs0U-?usp=sharing
