@@ -18,7 +18,7 @@ File is an Colab ipynb
 Google Colab
   https://colab.research.google.com/drive/1PvUd_Sa2mHzljc4bHeIT_J3q0bO9GqLO
   
-  
+  https://colab.research.google.com/drive/1SxrjCkQi_Y_eoZYnZX5xd3qtfExS9H4b#scrollTo=eVSz08MKtkuw
 # Certifications
 
 Solo Learn
